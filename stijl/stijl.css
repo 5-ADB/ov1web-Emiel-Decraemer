@@ -1,4 +1,7 @@
-.chat {width: 50;
+.chat{
     position: absolute;
-    bottom: 0;
-right: 0;}
+    bottom: 0px;
+right: 0px;}
+
+.home{position: absolute;top:5;right: 5;}
+.info{position: absolute;top:5;right: 79;}
